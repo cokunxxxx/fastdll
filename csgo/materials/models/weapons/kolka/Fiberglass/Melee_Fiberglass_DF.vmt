@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/kolka/Fiberglass/Melee_Fiberglass_DF"
+	"$bumpmap" "models/player/custom_player/kolka/Skullomania/face_n"
+}

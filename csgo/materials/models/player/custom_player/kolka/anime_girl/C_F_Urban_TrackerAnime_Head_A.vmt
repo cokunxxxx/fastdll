@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/anime_girl/C_F_Urban_TrackerAnime_Head_A"
+	"$bumpmap" "models/player/custom_player/kolka/anime_girl/C_F_Urban_TrackerAnime_Head_N"
+}
